@@ -1,4 +1,3 @@
-# About Me:
 Hi there! I'm Mahmoud Hassan, a passionate Flutter Developer with a focus on clean architecture, scalable design, and modern app development practices.<br><br> What I Do<br><br>Build cross-platform apps using Flutter & Dart<br><br>Apply Clean Architecture and modular design<br><br>Work with Firebase, Firestore, and FirebaseAuth<br><br>Use GetIt, Injectable, Cubit, and GetX for state management and DI<br><br>Integrate CI/CD pipelines with GitHub Actions<br><br><br>Technologies & Tools<br>Flutter · Dart · Firebase · GitHub Actions · Bloc/Cubit · GetX · Figma · REST APIs · CI/CD<br>
 
 
