@@ -80,13 +80,9 @@ A cross-platform fitness application developed using Flutter, designed to help u
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHassan9&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan9&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MahmoudHassan9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
