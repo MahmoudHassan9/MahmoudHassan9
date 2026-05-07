@@ -1,23 +1,106 @@
-Hi there! I'm Mahmoud Hassan, a passionate Flutter Developer with a focus on clean architecture, scalable design, and modern app development practices.<br><br> What I Do<br><br>Build cross-platform apps using Flutter & Dart<br><br>Apply Clean Architecture and modular design<br><br>Work with Firebase, Firestore, and FirebaseAuth<br><br>Use GetIt, Injectable, Cubit, and GetX for state management and DI<br><br>Integrate CI/CD pipelines with GitHub Actions<br><br><br>Technologies & Tools<br>Flutter · Dart · Firebase · GitHub Actions · Bloc/Cubit · GetX · Figma · REST APIs · CI/CD<br>
+<div align="center">
 
+# Hi there, I'm Mahmoud Hassan 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hassan-9493a2283/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7odabeh777@gmail.com) 
+### Mobile Application Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MahmoudHassan9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-hassan-9493a2283/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7odabeh777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudHassan9)
+[![Organization](https://img.shields.io/badge/Team_Organization-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team5-Projects-Advanced-Flutter-Elevate)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MahmoudHassan9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MahmoudHassan9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MahmoudHassan9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 **B.Sc. Computer Science** 
+- 💼 **Flutter Developer Intern** @ Elavete Tech (Remote)
+- 📱 Built **4 production-grade mobile apps** using Flutter for Android & iOS
+- 🏛️ Passionate about **Clean Architecture**, **SOLID Principles**, and writing maintainable code
+- 📍 Cairo, Egypt
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00C853?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-1565C0?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-6A1B9A?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-FF6F00?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ E-Commerce App
+
+Built an e-commerce mobile app using Flutter with Clean Architecture and the MVI pattern. The app uses Cubit and Equatable for predictable and efficient state management, Retrofit for API handling, and Injectable for dependency injection. Key features include a shopping cart system, order tracking, product filtering, and secure user authentication. The app also includes unit and widget testing using Mockito and bloc_test to ensure stability and reliability.
+
+**Stack:** Clean Architecture · MVI · Cubit · Equatable · Retrofit · Injectable · Unit Testing · Widget Testing · Mockito · bloc_test
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/flower_ecommerce_app_team5)
+
+---
+
+### 📦 Package Tracking App
+
+Built a package delivery tracking app for the E-Commerce platform using Clean Architecture and MVI pattern. Implemented state management with Cubit and Equatable, and structured API integration using Retrofit. Utilized Injectable for scalable dependency injection. Ensured code reliability with unit and widget tests using Mockito and bloc_test. Designed with testability, modularity, and maintainability in mind for production-scale e-commerce environments.
+
+**Stack:** Clean Architecture · MVI · Cubit · Equatable · Retrofit · Injectable · Mockito · bloc_test
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/flower_tracking_app)
+
+---
+
+### 💪 Super Fitness App
+
+A cross-platform fitness application developed using Flutter, designed to help users track workouts, monitor progress, and achieve their health goals. The app features a clean UI/UX, daily workout plans, muscle group categorization, video guidance, and personalized goal tracking.
+
+**Stack:** Flutter · Dart · Material Design · Responsive UI · Video Guidance · Goal Tracking
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/super_fitness)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHassan9&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan9&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **Flutter Diploma** — Route IT Training Center
+- 🏅 **Flutter Advanced Course: BLoC & MVVM Pattern** — Udemy (2023)
+
+---
+
+<div align="center">
+
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+
+⭐ **Feel free to explore my repositories and leave a star if you find something useful!**
+
+</div>
