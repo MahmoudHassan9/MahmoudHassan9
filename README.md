@@ -15,8 +15,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Sc. Computer Science** 
+- 🎓 **B.Sc. Computer Science** — Menoufia University (2021–2025)
 - 💼 **Flutter Developer Intern** @ Elavete Tech (Remote)
+- 🤝 **Team Member** @ [Team5 — Advanced Flutter Elevate](https://github.com/Team5-Projects-Advanced-Flutter-Elevate)
 - 📱 Built **4 production-grade mobile apps** using Flutter for Android & iOS
 - 🏛️ Passionate about **Clean Architecture**, **SOLID Principles**, and writing maintainable code
 - 📍 Cairo, Egypt
@@ -47,6 +48,16 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 📝 Online Exam App
+
+A Flutter-based mobile application that enables users to take online exams, track their results, and manage their progress efficiently. The app provides a seamless experience with features such as secure authentication, subject-wise exam selection, timer-based MCQ tests, and result tracking. Built using MVI architecture and Cubit for state management, the app ensures a structured, scalable, and maintainable codebase for future enhancements.
+
+**Stack:** Clean Architecture · MVI · Cubit · Equatable · Retrofit · Dio · Isar DB · Lottie · Provider · Injectable · GetIt · BLoC Test · Mockito
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team5-Projects-Advanced-Flutter-Elevate/exam-app-group2)
+
+---
 
 ### 🛍️ E-Commerce App
 
@@ -80,9 +91,23 @@ A cross-platform fitness application developed using Flutter, designed to help u
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MahmoudHassan9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=MahmoudHassan9&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=MahmoudHassan9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
